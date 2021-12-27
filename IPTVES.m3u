@@ -757,4 +757,11 @@ https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
 http://k4.usastreams.com/videotour/videotour/playlist.m3u8
 #EXTINF:-1 tvg-id="VPItv.ve" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/vpitv/picture?width=320&height=320" group-title="News",VPItv (480p) [Not 24/7]
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/vpitv
+#EXTINF:0,---●★| GUATEMALA |★●---
+#EXTINF:-1 tvg-id="Canal 03 El Super Canal" tvg-country="GT" tvg-language="Spanish" tvg-logo="https://www.chapintv.com/wp-content/uploads/2020/10/canal_3-1.png" group-title="",Canal 03 Guatemala (720p)
+https://devdbm9fvg6q0.cloudfront.net/chapintv/smil:canal3.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal 07 Televisiete" tvg-country="GT" tvg-language="Spanish" tvg-logo="https://www.chapintv.com/wp-content/uploads/2020/10/canal_7-1.png" group-title="",Canal 07 Guatemala (720p)
+https://devdbm9fvg6q0.cloudfront.net/chapintv/smil:canal7.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TN 23 Guatemala" tvg-country="GT" tvg-language="Spanish" tvg-logo="https://www.chapintv.com/wp-content/uploads/2020/10/tn_23-1.png'" group-title="",Canal 23 Guatemala (720p)
+https://devdbm9fvg6q0.cloudfront.net/chapintv/smil:canal23.smil/playlist.m3u8
 
