@@ -649,27 +649,27 @@ http://tv1.live:25461/star7arab/WtnJQObFQO/6977
 http://tv1.live:25461/star7arab/WtnJQObFQO/6978
 #EXTINF:0,---●★| COSTA RICA |★●---
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ar/mi.tv.epg.xml,https://iptv-org.github.io/epg/guides/cr/gatotv.com.epg.xml,https://iptv-org.github.io/epg/guides/es/programacion-tv.elpais.com.epg.xml,https://iptv-org.github.io/epg/guides/us-az/tvtv.us.epg.xml"
-#EXTINF:-1 tvg-id="K17JIDT4.us" tvg-country="CR;HISPAM" tvg-language="Spanish" tvg-logo="https://www.repretel.com/wp-content/uploads/2020/09/canal_6.png" group-title="Costa Rica",Canal 6 Repretel (480p)
+#EXTINF:-1 tvg-id="Canal 6" tvg-country="CR;HISPAM" tvg-language="Spanish" tvg-logo="https://www.repretel.com/wp-content/uploads/2020/09/canal_6.png" group-title="Costa Rica",Canal 6 Repretel (480p)
 https://d30zjikdv9ntds.cloudfront.net/repretel/canal6/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="K18JLD2.us" tvg-country="US;HISPAM" tvg-language="Spanish" tvg-logo="https://www.repretel.com/wp-content/uploads/2020/09/canal_11-1.png" group-title="CR",Canal 11 
 https://d30zjikdv9ntds.cloudfront.net/repretel/canal11/smil:live.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Tele Red Alajuela" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://3.bp.blogspot.com/-9GzNBKGrgbg/XAKbdRdvMTI/AAAAAAAAHJQ/anPqr7YFWBUYzaRmXN3CSQ2H2jRe8-LEACLcBGAs/s1600/Tele%2BRed%2BAlajuela%2BTV.png" group-title="",Tele Red Alajuela (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="Tele Red Alajuela" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://3.bp.blogspot.com/-9GzNBKGrgbg/XAKbdRdvMTI/AAAAAAAAHJQ/anPqr7YFWBUYzaRmXN3CSQ2H2jRe8-LEACLcBGAs/s1600/Tele%2BRed%2BAlajuela%2BTV.png" group-title="",Tele Red Alajuela 
 https://59ef525c24caa.streamlock.net/ARBtv/teleplus/chunklist_w2054738969.m3u8
-#EXTINF:-1 tvg-id="Tele Sur" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://2.bp.blogspot.com/-0iLL95WHfUs/XMrTc-JtK-I/AAAAAAAAHng/hCmPsiXw_is4IdMX3SGnFalP7gT_nML2gCLcBGAs/s1600/Telesurenvivocostarica.png" group-title="",Canal 8 (720p)
+#EXTINF:-1 tvg-id="Tele Sur" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://2.bp.blogspot.com/-0iLL95WHfUs/XMrTc-JtK-I/AAAAAAAAHng/hCmPsiXw_is4IdMX3SGnFalP7gT_nML2gCLcBGAs/s1600/Telesurenvivocostarica.png" group-title="",Canal 8 
 https://59ef525c24caa.streamlock.net/telesur/telesur/chunklist_w139637423.m3u8
-#EXTINF:-1 tvg-id="TV SUR CANAL 14" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://1.bp.blogspot.com/-U2o1hfPn07E/XAKvkxL82WI/AAAAAAAAHJo/Wvua_5kjuwctzMsnRoU-bQpxAIu0eERQwCLcBGAs/s1600/el%2B14%2Ben%2Bvivo.png" group-title="",TV Sur Canal 14 (720p)
+#EXTINF:-1 tvg-id="TV SUR CANAL 14" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://1.bp.blogspot.com/-U2o1hfPn07E/XAKvkxL82WI/AAAAAAAAHJo/Wvua_5kjuwctzMsnRoU-bQpxAIu0eERQwCLcBGAs/s1600/el%2B14%2Ben%2Bvivo.png" group-title="",TV Sur Canal 14 
 https://5bf8041cb3fed.streamlock.net/TVSURCANAL14/TVSURCANAL14/chunklist_w1500820727.m3u8
-#EXTINF:-1 tvg-id="Sinart Canal 13" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://3.bp.blogspot.com/-sEbfu8X6mL8/XAKnYtpTMyI/AAAAAAAAHJc/c6ERQ3ObamkUliSicm8654xsQjQZy2-_gCLcBGAs/s1600/canal13envivo.png" group-title="General",Sinart Canal 13 (360p) [Not 24/7]
+#EXTINF:-1 tvg-id="Sinart Canal 13" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://3.bp.blogspot.com/-sEbfu8X6mL8/XAKnYtpTMyI/AAAAAAAAHJc/c6ERQ3ObamkUliSicm8654xsQjQZy2-_gCLcBGAs/s1600/canal13envivo.png" group-title="General",Sinart Canal 13 
 https://stream-01.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZX-oOeDY1yzj_P3Qo730r-Y)/dm/3/x7vh8g3/d/live-2.m3u8
-#EXTINF:-1 tvg-id="Esperanza TV" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://3.bp.blogspot.com/-Dy9RtUNjt8Q/XAK9tQEayzI/AAAAAAAAHKA/6hqbxUkm78oP6dTygWKNlyZw3IcHpFn0gCLcBGAs/s1600/Esperanza%2Btv%2Ben%2Bvivo.png" group-title="",Esperanza TV (720p)
+#EXTINF:-1 tvg-id="Esperanza TV" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://3.bp.blogspot.com/-Dy9RtUNjt8Q/XAK9tQEayzI/AAAAAAAAHKA/6hqbxUkm78oP6dTygWKNlyZw3IcHpFn0gCLcBGAs/s1600/Esperanza%2Btv%2Ben%2Bvivo.png" group-title="",Esperanza TV 
 https://hcintlinc.mmdlive.lldns.net/hcintlinc/7af1df165bec4333b62c59afce9c9e49/chunklist_b1128000.m3u8
-#EXTINF:-1 tvg-id="Ticavisión Canal 54" tvg-country="CR;HISPAM" tvg-language="Spanish" tvg-logo="https://3.bp.blogspot.com/-FZ_CaLWiHI0/W_MNvSvv6xI/AAAAAAAAHH0/zUz4Sw5MU18NQoz0fiauK688XuXPP-CGgCLcBGAs/s1600/TicaVisionenvivo.png" group-title="CR",Ticavisión Canal 54 (720p)
+#EXTINF:-1 tvg-id="Ticavisión Canal 54" tvg-country="CR;HISPAM" tvg-language="Spanish" tvg-logo="https://3.bp.blogspot.com/-FZ_CaLWiHI0/W_MNvSvv6xI/AAAAAAAAHH0/zUz4Sw5MU18NQoz0fiauK688XuXPP-CGgCLcBGAs/s1600/TicaVisionenvivo.png" group-title="CR",Ticavisión Canal 54 
 http://k3.usastreams.com:1935/HBTV/HBTV/chunklist_w338799001.m3u8
-#EXTINF:-1 tvg-id="Canal38.cr" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://www.canal38cr.com/wp-content/uploads/2019/10/cropped-Logo-Nuevo-400.jpg" group-title="Music",Anexión TV Canal 36 (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="Canal 38" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://www.canal38cr.com/wp-content/uploads/2019/10/cropped-Logo-Nuevo-400.jpg" group-title="Music",Canal 38
 https://rtmp.info/canal38/envivo/chunks.m3u8
 #EXTINF:-1 tvg-id="Anexión TV Canal 36" tvg-country="CR" tvg-language="Spanish" tvg-logo="https://1.bp.blogspot.com/-BC7Bw7cHUjo/XMwhHy_y23I/AAAAAAAAHoE/36PAUESuYAEz5w-MfNRaGDUDEsOclG0ZgCLcBGAs/s1600/anexioncanal36envivo.png" group-title="",Anexión TV Canal 36
 https://rtmp.info/anexiontv/envivo/chunklist_w2146979766.m3u8
-#EXTINF:-1 tvg-id="CHICMagazine.cl" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="http://chicmagazinetv.online/img/logo-radio.png" group-title="Lifestyle",CHIC Magazine (480p) [Not 24/7]
+#EXTINF:-1 tvg-id="CHICMagazine.cl" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="http://chicmagazinetv.online/img/logo-radio.png" group-title="Lifestyle",CHIC Magazine 
 https://paneltv.online:1936/8056/8056/playlist.m3u8
 #EXTINF:-1 tvg-id="ClaroSports.mx" tvg-country="HISPAM" tvg-language="Spanish" tvg-logo="" group-title="Sports",Claro Sports (480p)
 http://45.179.140.242:8000/play/a0ht
