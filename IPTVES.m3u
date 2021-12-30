@@ -805,15 +805,15 @@ https://5bf8041cb3fed.streamlock.net/TVSURCANAL14/TVSURCANAL14/playlist.m3u8
 http://k4.usastreams.com/videotour/videotour/playlist.m3u8
 #EXTINF:-1 tvg-id="CANAL ANTIGUA" tvg-country="GT" tvg-language="Spanish" tvg-logo="https://canalantigua.tv/wp-content/uploads/2020/12/cropped-cropped-544-x-180-logo-300x99-1.png" group-title="",CANAL ANTIGUA (1080p) [Not 24/7]
 https://5ef74a4cbddfc.streamlock.net/CanalAntigua/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="TELEVISIETE 7" tvg-country="GT" tvg-language="Spanish" tvg-logo="https://emisorasgt.com/image/64x64/tv/canal-7-guatemala.png" group-title="",Canal Antigua (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="TELEVISIETE 7" tvg-country="GT" tvg-language="Spanish" tvg-logo="https://emisorasgt.com/image/64x64/tv/canal-7-guatemala.png" group-title="",TELEVISIETE 7 (1080p) [Not 24/7]
 https://devdbm9fvg6q0.cloudfront.net/chapintv/smil:canal7.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 tvg-id="Canal TN23" tvg-country="GT" tvg-language="Spanish" tvg-logo="https://emisorasgt.com/image/64x64/tv/tn23-guatemala.png" group-title="",Canal Antigua Guatemala (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="Canal TN23" tvg-country="GT" tvg-language="Spanish" tvg-logo="https://emisorasgt.com/image/64x64/tv/tn23-guatemala.png" group-title="",Canal TN23 (1080p) [Not 24/7]
 https://devdbm9fvg6q0.cloudfront.net/chapintv/smil:canal23.smil/chunklist_b200000.m3u8
-#EXTINF:-1 tvg-id="Canal 3" tvg-country="GT" tvg-language="Spanish" tvg-logo="https://emisorasgt.com/image/64x64/tv/Canal-3-guatemala.png?quality=82" group-title="",Guatevisión (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="Canal 3" tvg-country="GT" tvg-language="Spanish" tvg-logo="https://emisorasgt.com/image/64x64/tv/Canal-3-guatemala.png?quality=82" group-title="",Canal 3 (720p) [Not 24/7]
 https://devdbm9fvg6q0.cloudfront.net/chapintv/smil:canal3.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 tvg-id="Iglesia Del Camino" tvg-country="GT" tvg-language="Spanish" tvg-logo="http://www.iglesiadelcamino.org/images/logo.png" group-title="Religious",Iglesia Del Camino (480p) [Not 24/7]
 http://streamingcontrol.com:1935/ectv/ectv/playlist.m3u8
-#EXTINF:-1 tvg-id="Telecosta" tvg-country="GT" tvg-language="Spanish" tvg-logo="https://emisorasgt.com/image/64x64/tv/telecosta-escuintla.png " group-title="Religious",Iglesia Del Camino (480p) [Not 24/7]
+#EXTINF:-1 tvg-id="Telecosta" tvg-country="GT" tvg-language="Spanish" tvg-logo="https://emisorasgt.com/image/64x64/tv/telecosta-escuintla.png " group-title="Religious",Telecosta (480p) [Not 24/7]
 https://tv91.hostingnuclear.com:19360/telecosta/telecosta.m3u8
 
 
